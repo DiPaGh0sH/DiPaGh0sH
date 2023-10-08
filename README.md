@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hello! 👋, I'm Dipa Ghosh</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Dipa+Ghosh" />
+<h3 align="center">color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Dipa+Ghosh" />
 </h3>
 <h1 align="center">Software Quality Assurance Enthusiast</h1>
 <h3 align="center">I am an enthusiastic and passionate candidate in the growing field of Software Quality Assurance with in-depth knowledge of testing methodologies and quality assurance principles with strong skills of analysis. I am always ready to face the challenges of software testing. My goal is not only to find bugs but also improve product quality.</h3>
