@@ -1,3 +1,7 @@
+## ❤ Profile Views 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=DiPaGh0sH">
+</a>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">Hello! 👋, I'm Dipa Ghosh</h3>
 <h3 align="center">Software Quality Assurance Enthusiast</h3>
