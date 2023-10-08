@@ -1,5 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hello! 👋, I'm Dipa Ghosh</h1>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Dipa+Ghosh" />
+</h3>
 <h1 align="center">Software Quality Assurance Enthusiast</h1>
 <h3 align="center">I am an enthusiastic and passionate candidate in the growing field of Software Quality Assurance with in-depth knowledge of testing methodologies and quality assurance principles with strong skills of analysis. I am always ready to face the challenges of software testing. My goal is not only to find bugs but also improve product quality.</h3>
 
@@ -63,8 +65,7 @@
 
 <br/>
 
-## ❤ Views and Followers
+## ❤ Profile Views 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DiPaGh0sH">
 </a>
-<a href="https://github.com/DiPaGh0sH?tab=followers"><img src="https://img.shields.io/github/followers/DiPaGh0sH?label=Followers&style=social" alt="GitHub Badge"></a>
